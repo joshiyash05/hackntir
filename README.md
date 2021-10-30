@@ -64,7 +64,7 @@ Link : https://drive.google.com/file/d/1-6GdZO2YI28GmyiS2poIuMxYPeYsh-K8/view?us
 
 ### Team
 - [Yash Anil Joshi](https://github.com/joshiyash05)
-- [Ankit Mishra](https://github.com/spiyush0212)
+- [Ankit Mishra](https://github.com/Ankit-86)
 
 ### CONTACT
 
