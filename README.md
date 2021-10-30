@@ -40,7 +40,7 @@ the website via Geolocation API.
 
 1. Drop a ⭐ on the Github Repository.
 2. Clone the Repo by going to your local Git Client and pushing in the command:
-`https://github.com/sonalsk/weMATTER.git`
+`https://github.com/joshiyash05/hackntir.git`
 3. Run the index.html file on your local server
 4. Enjoy the application.
 
