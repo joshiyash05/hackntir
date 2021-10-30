@@ -1,7 +1,7 @@
 # hackntir
 # A Centralised Web Application: Jai mata di
 
-#weMATTER is a centralised web application for women to come together and learn about their rights and available opportunities in different areas of life.
+Jai mata di is a centralised web application for women to come together and learn about their rights and available opportunities in different areas of life.
 <hr>
 
 ### TARGET AUDIENCE : Rural and Urban Women
@@ -63,8 +63,8 @@ To know more about the project, check out the YouTube video at https://www.youtu
 Link : https://drive.google.com/file/d/1-6GdZO2YI28GmyiS2poIuMxYPeYsh-K8/view?usp=sharing
 
 ### Team
-- [Sonal Kushwaha](https://github.com/sonalsk)
-- [Piyush Sharma](https://github.com/spiyush0212)
+- [Yash Anil Joshi](https://github.com/joshiyash05)
+- [Ankit Mishra](https://github.com/spiyush0212)
 
 ### CONTACT
 
