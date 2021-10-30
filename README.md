@@ -51,7 +51,7 @@ the website via Geolocation API.
 
 ### SCREENSHOT OF THE WORKING APPLICATION
 
-<img src="https://github.com/sonalsk/weMATTER/blob/main/Asset/landingPage.JPG" width = 50%>
+<img src="https://github.com/joshiyash05/hackntir/blob/main/Assets/Screenshot%20(9).png" width = 50%>
 <img src="https://github.com/sonalsk/weMATTER/blob/main/Asset/categoryPage.JPG" width = 50%>
 
 ### Project Video
