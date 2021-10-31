@@ -56,11 +56,11 @@ the website via Geolocation API.
 
 ### Project Video
 
-To know more about the project, check out the YouTube video at https://www.youtube.com/watch?v=rICBEMWWCCw
+To know more about the project, check out the YouTube video at https://www.loom.com/share/65783e8a86084ed09f3a150a4a9f7a08
 
 ### Project PPT
 
-Link : https://drive.google.com/file/d/1-6GdZO2YI28GmyiS2poIuMxYPeYsh-K8/view?usp=sharing
+Link : https://drive.google.com/file/d/1U6QP0sEsfzD9Ct8F0mgXVzDe9EuH4aoJ/view?usp=sharing
 
 ### Team
 - [Yash Anil Joshi](https://github.com/joshiyash05)
