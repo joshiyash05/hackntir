@@ -22,6 +22,8 @@ def home(request):
 def postsignIn(request):
     email=request.POST.get('email')
     pasw=request.POST.get('pass')
+    
+    
     try:
         # if there is no error then signin the user with given email and password
         user=authe.sign_in_with_email_and_password(email,pasw)
@@ -30,7 +32,8 @@ def postsignIn(request):
         return render(request,"Login.html",{"message":message})
     session_id=user['idToken']
     request.session['uid']=str(session_id)
-    database.child("yash").child("email").push(email)
+    
+    
     
     return render(request,"Home.html",{"email":email})
  
@@ -48,6 +51,11 @@ def postsignUp(request):
      email = request.POST.get('email')
      passs = request.POST.get('pass')
      name = request.POST.get('name')
+     phone= request.POST.get('Phone')
+     div= request.POST.get('Div')
+     year= request.POST.get('Currentyear')
+     sapid= request.POST.get('Sapid')
+
      try:
         # creating a user with the given email and password
         user=authe.create_user_with_email_and_password(email,passs)
@@ -56,4 +64,10 @@ def postsignUp(request):
         print(uid)
      except:
         return render(request, "Registration.html")
+     database.child("yash").child("email").push(email)
+     database.child("yash").child("email").push(phone)
+     database.child("yash").child("email").push(sapid)
+     database.child("yash").child("email").push(name)
+     database.child("yash").child("email").push(div)
+     database.child("yash").child("year").push(year)
      return render(request,"Login.html")
